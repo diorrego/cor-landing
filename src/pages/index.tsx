@@ -28,7 +28,7 @@ export default function Home() {
         height={4888}
         className="w-full h-full object-cover"
       />
-      <div className="absolute bottom-0 inset-x-0 bg-black text-white h-32 sm:h-fit text-center p-1">
+      <div className="absolute bottom-0 inset-x-0 bg-black text-white h-fit text-center p-1">
         <h2>hola@corchile.com</h2>
         <h2>Cor SpA | Sector Atacalco, Región del Ñuble, Chile</h2>
       </div>
